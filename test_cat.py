@@ -1,5 +1,5 @@
 def name():
-    name = "tom"
+    name = "tom_br2"
     age = 9
 
     print name+":"+ str(age)

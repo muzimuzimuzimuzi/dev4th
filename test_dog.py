@@ -1,5 +1,5 @@
 def name():
-    name = "doggie"
+    name = "doggie_br2"
     age = 3
 
     print name+":"+ str(age)
